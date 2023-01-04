@@ -1,0 +1,1 @@
+<iframe src="https://api.genelpara.com/iframe/?symbol=para-birimleri&pb=XU100,USD,EUR,GA,BTC&stil=stil-1&renk=beyaz" title="Döviz ve Altın Fiyatları" frameborder="0" width="1000" height="300"></iframe>
